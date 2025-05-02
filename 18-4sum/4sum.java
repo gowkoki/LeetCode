@@ -1,42 +1,49 @@
+
+//import com.sun.tools.javac.code.Attribute.Array;
+
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
+
         Arrays.sort(nums);
         int n = nums.length;
-        int a = 0;
-        List<List<Integer>> arr = new ArrayList<>();
-        if (target < 0 && nums[0] > 0)
-            return new ArrayList<>();
-        while (a < n - 3) {
-            if (a > 0 && nums[a] == nums[a - 1]) {
-                a++;
+        List<List<Integer>> result = new ArrayList<>();
+        if (n < 4) {
+            return result;
+        }
+
+        for (int i = 0; i <= n - 4; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
-            int b = a + 1;
-            while (b < n - 2) {
-                if (b > a + 1 && nums[b] == nums[b - 1]) {
-                    b++;
+            for (int j = i + 1; j <= n - 3; j++) {
+                if (j > i + 1 && nums[j] == nums[j - 1]) {
                     continue;
                 }
-                int c = b + 1;
-                int d = n - 1;
-                while (c < d) {
-                    long total = nums[a] + nums[b] + nums[c] + nums[d];
-                    if (total > target) {
-                        d--;
-                    } else if (total < target) {
-                        c++;
+                int p1 = j + 1;
+                int p2 = n - 1;
+                while (p1 < p2) {
+                    long sum = (long) nums[i] + nums[j] + nums[p1] + nums[p2];
+                    if (sum == target) {
+                        result.add(Arrays.asList(nums[i], nums[j], nums[p1], nums[p2]));
+                        while (p1 < p2 && nums[p1] == nums[p1 + 1])
+                            p1++;
+                        while (p1 < p2 && nums[p2] == nums[p2 - 1])
+                            p2--;
+
+                        p1++;
+                        p2--;
+                    } else if (sum < target) {
+                        p1++;
                     } else {
-                        arr.add(Arrays.asList(nums[a], nums[b], nums[c], nums[d]));
-                        c++;
-                        while (nums[c] == nums[c - 1] && c < d) {
-                            c++;
-                        }
+                        p2--;
                     }
+
                 }
-                b++;
+
             }
-            a++;
         }
-        return arr;
+
+        return result;
+
     }
 }
