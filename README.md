@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gowkoki/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/gowkoki/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/gowkoki/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/gowkoki/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gowkoki/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
