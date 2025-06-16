@@ -1,20 +1,20 @@
 class Solution {
     public int dominantIndex(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        int maxIndex = 0;
+        int firstMax = 0;
+        int secondMax = 0;
+        int maxIndex = -1;
 
         for (int i = 0; i < nums.length; i++) {
-            if (max < nums[i]) {
+            if (firstMax < nums[i]) {
+                secondMax = firstMax;
                 maxIndex = i;
-                max = nums[i];
+                firstMax = nums[i];
+            } else if (secondMax < nums[i]) {
+                secondMax = nums[i];
             }
         }
 
-        Arrays.sort(nums);
-        if (nums[nums.length - 2] * 2 <= max) {
-            return maxIndex;
-        }
-        return -1;
+        return secondMax * 2 <= firstMax ? maxIndex : -1;
 
     }
 }
