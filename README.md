@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gowkoki/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/gowkoki/LeetCode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gowkoki/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/gowkoki/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gowkoki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/gowkoki/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/gowkoki/LeetCode/tree/master/0414-third-maximum-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/gowkoki/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gowkoki/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/gowkoki/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gowkoki/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gowkoki/LeetCode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/gowkoki/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/gowkoki/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/gowkoki/LeetCode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/gowkoki/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
