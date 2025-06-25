@@ -135,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gowkoki/LeetCode/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
