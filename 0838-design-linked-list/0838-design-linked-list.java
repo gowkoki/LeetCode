@@ -6,10 +6,11 @@ class MyLinkedList {
     }
 
     public int get(int index) {
-        if (index >= list.size()) {
+        if (index < list.size()) {
+            return list.get(index);
+        } else {
             return -1;
         }
-        return list.get(index);
     }
 
     public void addAtHead(int val) {
@@ -21,16 +22,15 @@ class MyLinkedList {
     }
 
     public void addAtIndex(int index, int val) {
-        if (list.size() == index) {
-            addAtTail(val);
-        } else if (list.size() > index) {
+        if (index < list.size()) {
             list.add(index, val);
+        } else if (index == list.size()) {
+            addAtTail(val);
         }
-
     }
 
     public void deleteAtIndex(int index) {
-        if (list.size() > index) {
+        if (index < list.size()) {
             list.remove(index);
         }
 
