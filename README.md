@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0838-design-linked-list) |
+| [0850-insert-into-a-sorted-circular-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 ## Design
 |  |
 | ------- |
