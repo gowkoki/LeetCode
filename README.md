@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/gowkoki/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/gowkoki/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0816-design-hashset](https://github.com/gowkoki/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/gowkoki/LeetCode/tree/master/0817-design-hashmap) |
 | [0941-sort-array-by-parity](https://github.com/gowkoki/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/gowkoki/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1137-height-checker](https://github.com/gowkoki/LeetCode/tree/master/1137-height-checker) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/gowkoki/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gowkoki/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0816-design-hashset](https://github.com/gowkoki/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/gowkoki/LeetCode/tree/master/0817-design-hashmap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gowkoki/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -166,12 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/gowkoki/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/gowkoki/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0838-design-linked-list) |
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/gowkoki/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/gowkoki/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -193,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/gowkoki/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/gowkoki/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
