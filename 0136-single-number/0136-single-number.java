@@ -1,8 +1,8 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int output =0;
+        int output = 0;
 
-        for(int n : nums){
+        for (int n : nums) {
             output ^= n;
         }
 
