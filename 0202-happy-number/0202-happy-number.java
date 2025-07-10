@@ -13,7 +13,7 @@ class Solution {
             while (n != 0) {
                 int digit = n % 10;
                 n = n / 10;
-                sum += (int) Math.pow(digit, 2);
+                sum += digit * digit;
             }
             n = sum;
         }
