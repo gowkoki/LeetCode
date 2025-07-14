@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/gowkoki/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gowkoki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gowkoki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0359-logger-rate-limiter](https://github.com/gowkoki/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gowkoki/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gowkoki/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/gowkoki/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0816-design-hashset](https://github.com/gowkoki/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gowkoki/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0838-design-linked-list) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/gowkoki/LeetCode/tree/master/0359-logger-rate-limiter) |
 <!---LeetCode Topics End-->
