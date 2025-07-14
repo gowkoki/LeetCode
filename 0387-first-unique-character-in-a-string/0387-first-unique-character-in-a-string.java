@@ -1,25 +1,17 @@
 class Solution {
     public int firstUniqChar(String s) {
-        Map<Character, Integer> map = new HashMap<>();
-        char[] sChar = s.toCharArray();
+        int[] frequency = new int[26];
 
-        for (int i = 0; i < sChar.length; i++) {
-            if (map.containsKey(sChar[i])) {
-                map.put(sChar[i], -1);
-            } else {
-                map.put(sChar[i], i);
+        for (char c : s.toCharArray()) {
+            frequency[c - 'a']++;
+        }
+
+        for (int i = 0; i < s.length(); i++) {
+            if (frequency[s.charAt(i) - 'a'] == 1) {
+                return i;
             }
         }
 
-        int min = Integer.MAX_VALUE;
-
-        for (int index : map.values()) {
-            if (index != -1) {
-                min = Math.min(min, index);
-            }
-        }
-
-        return min != Integer.MAX_VALUE ? min : -1;
-
+        return -1;
     }
 }
