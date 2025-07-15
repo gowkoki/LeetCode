@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/gowkoki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/gowkoki/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gowkoki/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0249-group-shifted-strings](https://github.com/gowkoki/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0283-move-zeroes](https://github.com/gowkoki/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/gowkoki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gowkoki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gowkoki/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/gowkoki/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gowkoki/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0249-group-shifted-strings](https://github.com/gowkoki/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/gowkoki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gowkoki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0359-logger-rate-limiter](https://github.com/gowkoki/LeetCode/tree/master/0359-logger-rate-limiter) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gowkoki/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gowkoki/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0249-group-shifted-strings](https://github.com/gowkoki/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0344-reverse-string](https://github.com/gowkoki/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gowkoki/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
