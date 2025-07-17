@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gowkoki/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gowkoki/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gowkoki/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/gowkoki/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gowkoki/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/gowkoki/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/gowkoki/LeetCode/tree/master/0066-plus-one) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gowkoki/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/gowkoki/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gowkoki/LeetCode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/gowkoki/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gowkoki/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gowkoki/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/gowkoki/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/gowkoki/LeetCode/tree/master/0498-diagonal-traverse) |
 ## String Matching
