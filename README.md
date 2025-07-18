@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gowkoki/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gowkoki/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/gowkoki/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0782-jewels-and-stones](https://github.com/gowkoki/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/gowkoki/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gowkoki/LeetCode/tree/master/0817-design-hashmap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gowkoki/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gowkoki/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gowkoki/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0782-jewels-and-stones](https://github.com/gowkoki/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Bit Manipulation
 |  |
 | ------- |
