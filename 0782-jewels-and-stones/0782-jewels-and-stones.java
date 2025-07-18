@@ -1,19 +1,14 @@
 
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
-        Map<Character, Integer> frequency = new HashMap<>();
         int count = 0;
 
-        for (char c : stones.toCharArray()) {
-            frequency.put(c, frequency.getOrDefault(c, 0) + 1);
-        }
-
-        for (char c : jewels.toCharArray()) {
-            if (frequency.containsKey(c)) {
-                count += frequency.get(c);
+        for (int i = 0; i < stones.length(); i++) {
+            char stone = stones.charAt(i);
+            if (jewels.indexOf(stone) != -1) {
+                count++;
             }
         }
-
         return count;
     }
 }
