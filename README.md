@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/gowkoki/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/gowkoki/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gowkoki/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/gowkoki/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/gowkoki/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gowkoki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/gowkoki/LeetCode/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gowkoki/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gowkoki/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/gowkoki/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/gowkoki/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gowkoki/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/gowkoki/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gowkoki/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gowkoki/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/gowkoki/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0202-happy-number](https://github.com/gowkoki/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/gowkoki/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/gowkoki/LeetCode/tree/master/0217-contains-duplicate) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/gowkoki/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0359-logger-rate-limiter](https://github.com/gowkoki/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0816-design-hashset](https://github.com/gowkoki/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gowkoki/LeetCode/tree/master/0817-design-hashmap) |
@@ -257,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/gowkoki/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0359-logger-rate-limiter](https://github.com/gowkoki/LeetCode/tree/master/0359-logger-rate-limiter) |
 <!---LeetCode Topics End-->
