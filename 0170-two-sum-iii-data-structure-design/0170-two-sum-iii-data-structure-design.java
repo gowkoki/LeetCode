@@ -6,7 +6,11 @@ class TwoSum {
     }
 
     public void add(int number) {
-        map.put(number, map.getOrDefault(number, 0) + 1);
+        if (map.containsKey(number)) {
+            map.put(number, map.get(number) + 1);
+        } else {
+            map.put(number, 1);
+        }
     }
 
     public boolean find(int value) {
