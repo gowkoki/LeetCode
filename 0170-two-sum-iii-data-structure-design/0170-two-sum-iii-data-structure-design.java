@@ -1,31 +1,23 @@
 class TwoSum {
-    private List<Integer> list;
+    private Map<Integer, Integer> map;
 
     public TwoSum() {
-        list = new ArrayList<>();
+        map = new HashMap<>();
     }
 
     public void add(int number) {
-        list.add(number);
+        map.put(number, map.getOrDefault(number, 0) + 1);
     }
 
     public boolean find(int value) {
-        Collections.sort(list);
-        int left = 0;
-        int right = list.size()-1;
 
-        while (left < right) {
-            int sum = list.get(left) + list.get(right);
+        for (Integer k : map.keySet()) {
+            int diff = value - k;
 
-            if (sum > value) {
-                right--;
-            } else if (sum < value) {
-                left++;
-            } else {
+            if (map.containsKey(diff) && (k != diff || map.get(k) > 1)) {
                 return true;
             }
         }
-
         return false;
     }
 }
