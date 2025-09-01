@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/gowkoki/LeetCode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/gowkoki/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gowkoki/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1603-running-sum-of-1d-array](https://github.com/gowkoki/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gowkoki/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/gowkoki/LeetCode/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/gowkoki/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
