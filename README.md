@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gowkoki/LeetCode/tree/master/0100-same-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gowkoki/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [2384-root-equals-sum-of-children](https://github.com/gowkoki/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gowkoki/LeetCode/tree/master/0100-same-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gowkoki/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [2384-root-equals-sum-of-children](https://github.com/gowkoki/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Matrix
 |  |
 | ------- |
