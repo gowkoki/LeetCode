@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gowkoki/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/gowkoki/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gowkoki/LeetCode/tree/master/0202-happy-number) |
+| [2383-add-two-integers](https://github.com/gowkoki/LeetCode/tree/master/2383-add-two-integers) |
 ## String
 |  |
 | ------- |
