@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/gowkoki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/gowkoki/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gowkoki/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/gowkoki/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/gowkoki/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0498-diagonal-traverse](https://github.com/gowkoki/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gowkoki/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
