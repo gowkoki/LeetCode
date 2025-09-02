@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gowkoki/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gowkoki/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/gowkoki/LeetCode/tree/master/0412-fizz-buzz) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gowkoki/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/gowkoki/LeetCode/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/gowkoki/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/gowkoki/LeetCode/tree/master/0136-single-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gowkoki/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
