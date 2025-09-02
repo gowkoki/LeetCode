@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gowkoki/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gowkoki/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0359-logger-rate-limiter](https://github.com/gowkoki/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [0383-ransom-note](https://github.com/gowkoki/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gowkoki/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gowkoki/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/gowkoki/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1137-height-checker](https://github.com/gowkoki/LeetCode/tree/master/1137-height-checker) |
 ## Dynamic Programming
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gowkoki/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0249-group-shifted-strings](https://github.com/gowkoki/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0344-reverse-string](https://github.com/gowkoki/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/gowkoki/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/gowkoki/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gowkoki/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
