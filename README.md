@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gowkoki/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/gowkoki/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gowkoki/LeetCode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/gowkoki/LeetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/gowkoki/LeetCode/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0249-group-shifted-strings](https://github.com/gowkoki/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0344-reverse-string](https://github.com/gowkoki/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gowkoki/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/gowkoki/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gowkoki/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gowkoki/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/gowkoki/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/gowkoki/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/gowkoki/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/gowkoki/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/gowkoki/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Tree
 |  |
