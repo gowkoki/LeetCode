@@ -7,10 +7,12 @@ class Solution {
         }
 
         for (char c : magazine.toCharArray()) {
-            if (ran.containsKey(c) && ran.get(c) == 1) {
-                ran.remove(c);
-            } else if ((ran.containsKey(c) && ran.get(c) > 1)) {
-                ran.put(c, ran.get(c) - 1);
+            if (ran.containsKey(c)) {
+                if (ran.get(c) > 1) {
+                    ran.put(c, ran.get(c) - 1);
+                } else {
+                    ran.remove(c);
+                }
             }
 
             if (ran.isEmpty()) {
