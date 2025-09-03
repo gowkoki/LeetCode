@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/gowkoki/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/gowkoki/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/gowkoki/LeetCode/tree/master/1137-height-checker) |
+| [1168-duplicate-zeros](https://github.com/gowkoki/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/gowkoki/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gowkoki/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gowkoki/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/gowkoki/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/gowkoki/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/gowkoki/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/gowkoki/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gowkoki/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
