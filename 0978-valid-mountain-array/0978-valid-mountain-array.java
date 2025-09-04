@@ -4,20 +4,17 @@ class Solution {
             return false;
         }
 
-        int index = 0;
-
-        while (index + 1 < arr.length && arr[index] < arr[index + 1]) {
-            index++;
+        int i = 1;
+        while (i < arr.length && arr[i - 1] < arr[i]) {
+            i++;
         }
-
-        if (index == 0 || index == arr.length - 1) {
+        int j = i;
+        while (j < arr.length && arr[j - 1] > arr[j]) {
+            j++;
+        }
+        if (i == 1 || j - i == 0) {
             return false;
         }
-
-        while (index + 1 < arr.length && arr[index] > arr[index + 1]) {
-            index++;
-        }
-
-        return index == arr.length - 1;
+        return j == arr.length;
     }
 }
