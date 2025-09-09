@@ -1,19 +1,19 @@
 class Solution {
     public int[] replaceElements(int[] arr) {
+        int max = -1;
 
-        for (int i = 0; i < arr.length - 1; i++) {
-            arr[i] = find(arr, i + 1);
+        for (int i = arr.length - 1; i >= 0; i--) {
+            if (max < arr[i]) {
+                int temp = max;
+                max = arr[i];
+                arr[i] = temp;
+            } else {
+                arr[i] = max;
+            }
         }
-        arr[arr.length - 1] = -1;
+
         return arr;
 
     }
 
-    int find(int[] arr, int start) {
-        int max = Integer.MIN_VALUE;
-        for (int i = start; i < arr.length; i++) {
-            max = Math.max(max, arr[i]);
-        }
-        return max;
-    }
 }
