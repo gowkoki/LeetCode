@@ -1,23 +1,24 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> result = new ArrayList<>();
-        List<Integer> list = new ArrayList<>();
+        List<Integer> prev = new ArrayList<>();
 
-        list.add(1);
-        result.add(list);
+        for (int i = 1; i <= numRows; i++) {
+            List<Integer> list = new ArrayList<>();
+            list.add(1);
 
-        List<Integer> preRow = list;
-
-        for (int i = 1; i < numRows; i++) {
-            List<Integer> currRow = new ArrayList<>();
-            currRow.add(1);
-            for (int j = 1; j < i; j++) {
-                currRow.add(preRow.get(j) + preRow.get(j - 1));
+            for (int j = 1; j < i - 1; j++) {
+                list.add(prev.get(j - 1) + prev.get(j));
             }
-            currRow.add(1);
-            result.add(currRow);
-            preRow = currRow;
+
+            if (i != 1) {
+                list.add(1);
+            }
+            prev = list;
+            result.add(list);
+
         }
+
         return result;
     }
 }
