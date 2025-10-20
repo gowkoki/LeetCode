@@ -1,8 +1,5 @@
 class Solution {
     public int[] findDiagonalOrder(int[][] mat) {
-        if (mat.length == 0) {
-            return new int[] {};
-        }
         int row = mat.length;
         int col = mat[0].length;
         int[] result = new int[row * col];
@@ -30,9 +27,11 @@ class Solution {
                     x++;
                     y--;
                 }
+
             }
         }
 
         return result;
     }
+
 }
